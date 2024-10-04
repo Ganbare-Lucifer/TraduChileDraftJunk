@@ -242,11 +242,11 @@
   "block_type.chipped.reinforced_log": "Tronco de %s reforzado",
 
 
-  "block_type.graveyard.coffin": "%s Coffin",
+  "block_type.graveyard.coffin": "Ataúd de %s",
 
-  "block_type.dawnoftimebuilder.beam": "%s Beam",
-  "block_type.dawnoftimebuilder.couch": "%s Couch",
-  "block_type.dawnoftimebuilder.fancy_fence": "%s Fancy Fence",
+  "block_type.dawnoftimebuilder.beam": "Viga de %s",
+  "block_type.dawnoftimebuilder.couch": "Sofá de %s",
+  "block_type.dawnoftimebuilder.fancy_fence": "Valla elegante de %s",
   "block_type.dawnoftimebuilder.footstool": "%s Footstool",
   "block_type.dawnoftimebuilder.lattice": "%s Lattice",
   "block_type.dawnoftimebuilder.legless_chair": "%s Legless Chair",
